@@ -1,6 +1,6 @@
 package segmented_control.widget.custom.android.com.segmentedcontrol;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.view.View;
 import android.widget.LinearLayout;
 

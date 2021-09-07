@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <segmented_control.widget.custom.android.com.segmentedcontrol.SegmentedControl
+        android:id="@+id/orientationToggle"
+        android:layout_width="192dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:columnCount="2"
+        app:distributeEvenly="true"
+        app:focusedBackgroundColor="@android:color/transparent"
+        app:radius="4dp"
+        app:segments="@array/orientations"
+        app:selectedBackgroundColor="@color/white"
+        app:selectedStrokeColor="@color/white"
+        app:selectedTextColor="#242429"
+        app:textVerticalPadding="4dp"
+        app:unSelectedBackgroundColor="#242429"
+        app:unSelectedStrokeColor="@color/white"
+        app:unSelectedTextColor="@color/white" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

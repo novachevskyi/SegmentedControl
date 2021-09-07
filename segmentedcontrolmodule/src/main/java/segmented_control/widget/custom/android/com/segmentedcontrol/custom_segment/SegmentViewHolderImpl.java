@@ -4,7 +4,7 @@ import android.animation.ValueAnimator;
 import android.annotation.SuppressLint;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;

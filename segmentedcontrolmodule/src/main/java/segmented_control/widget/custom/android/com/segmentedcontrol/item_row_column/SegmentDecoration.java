@@ -3,8 +3,8 @@ package segmented_control.widget.custom.android.com.segmentedcontrol.item_row_co
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.Typeface;
-import android.support.annotation.ColorInt;
-import android.support.v4.content.ContextCompat;
+import androidx.annotation.ColorInt;
+import androidx.core.content.ContextCompat;
 
 /**
  * Created by Robert Apikyan on 9/11/2017.

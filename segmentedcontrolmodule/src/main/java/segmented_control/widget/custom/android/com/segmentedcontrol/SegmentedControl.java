@@ -3,7 +3,7 @@ package segmented_control.widget.custom.android.com.segmentedcontrol;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Typeface;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.LayoutInflater;

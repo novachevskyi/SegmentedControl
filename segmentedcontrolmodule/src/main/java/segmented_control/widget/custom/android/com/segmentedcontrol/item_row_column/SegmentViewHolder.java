@@ -1,7 +1,7 @@
 package segmented_control.widget.custom.android.com.segmentedcontrol.item_row_column;
 
 import android.graphics.Typeface;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.view.View;
 
 import section_layout.widget.custom.android.com.sectionlayout.distributive_section_layout.DistributiveSectionLayout;

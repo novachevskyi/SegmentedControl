@@ -1,6 +1,6 @@
 package segmented_control.widget.custom.android.com.segmentedcontrol.custom_segment;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
